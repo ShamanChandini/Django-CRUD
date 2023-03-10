@@ -7,8 +7,7 @@
 ![Screenshot 2023-03-10 195110](https://user-images.githubusercontent.com/89247662/224342657-4b696e2c-7226-4b00-9e08-2fbf0fd88b3e.png)
 
 ### In Command prompt make sure your thing gets deployed without any errors.
-![Screenshot 2023-03-10 195249](https://user-images.githubusercontent.com/89247662/224342907-93091634-77c4-4a36-ba4b-4f5214565f23.png)
-
+![Screenshot 2023-03-10 201009](https://user-images.githubusercontent.com/89247662/224344426-7587d63f-2e46-4909-9959-232e9ca99cee.png)
 
 ## CRUD stands for Create, Read, Update & Delete. 
 
