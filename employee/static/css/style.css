@@ -1,0 +1,31 @@
+body {
+    background: #c4c4c4;
+    height: 100%;
+    margin: 25px 0;
+    font-size: 25px;
+    padding-left: 300px;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+tr:hover {
+    background-color: rgb(255, 164, 228);
+}
+
+th {
+    background-color: #ff038e;
+    color: rgb(0, 0, 0);
+    
+}
+
+button {
+    border-radius: 22px;
+    font-size: 30px;
+    color: rgb(18, 0, 107);
+    background-color: #000000;
+    cursor: pointer;
+}
